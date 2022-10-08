@@ -2,7 +2,8 @@
 
 This project was created for the Software Engineering Module in Trinity College. The aim of the project was to create a mobile app which could help physio patients suffering from inner ear damage or vertigo. The user can log-in and they will be shown the exercises which they have been prescribed by the physio along with instructions and a demo video. The game then uses the front camera to track the user's head movements which controls the car on the road, the user must turn their head in a set rhythm to keep the car on the road and complete the exercise.
 
-Installation Instructions:
+<h3>Installation Instructions:</h3>
+
   -open terminal
   -change directory to VertigoUI
   -run the command "npm install"
